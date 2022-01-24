@@ -31,3 +31,4 @@ app.get('/api/stations/all',(req,res)=>{
 app.listen(PORT, () => {
     console.log('server listening to 8080');
 })
+
