@@ -54,5 +54,6 @@ app.get("/api/stations/random", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log("server listening to 8080");
-});
+    console.log('server listening to 8080');
+})
+
